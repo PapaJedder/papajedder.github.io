@@ -9,6 +9,6 @@ Content Creator for
 Check Me Out on [Instagram/IGTV](https://goo.gl/vMdQeZ)
 
 
-[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/D1D4IP34)
+[![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0)](https://ko-fi.com/D1D4IP34)
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#46b798', 'D1D4IP34');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/D1D4IP34' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
