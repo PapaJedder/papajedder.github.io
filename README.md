@@ -10,3 +10,5 @@ Check Me Out on [Instagram/IGTV](https://goo.gl/vMdQeZ)
 
 
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/D1D4IP34)
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#46b798', 'D1D4IP34');kofiwidget2.draw();</script> 
