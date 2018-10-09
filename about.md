@@ -13,7 +13,7 @@ Papa Jedder
 * [Youtube](https://goo.gl/xMXzkL) 
 * [Facebook](https://fb.me/papajedder)   
 
-Designand Illustration
+Design and Illustration
 * [Fundr by Customthread](https://fundr.customthread.com/papajedder) 
 * [Redbubble](https://www.redbubble.com/people/papajedder/portfolio)   
 
