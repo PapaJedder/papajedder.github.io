@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>papajedder</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Paytone+One|Raleway|Six+Caps" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>P A P A J E D D E R</h1>
+            <div class="horizon"></div>
+        </div>
+        <div class="profile">
+            <p>System Analyst | Musician | Comedian </p>
+        </div>
+        <div class="social">
+            {% assign entities = site.data.entities %}
+            {% for entity in entities %}
+            <div>
+                <h1> {{ entity.name }}</h1>
+                <p>{{ entity.description }}</p>
+                {%for l in entity.links %}
+                <li>
+                    <a href="{{ l.url }}"> {{ l.link }}</a>
+                </li>
+
+                {% endfor %}
+            </div>
+
+            {% endfor %}
+
+        </div>
+    </div>
+</body>
+
+</html>
