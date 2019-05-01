@@ -1,0 +1,63 @@
+---
+# 
+---
+
+*{
+    // font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    // font-family: 'Paytone One', sans-serif;
+    // font-family: 'Raleway', sans-serif;
+    // font-family: 'Six Caps', sans-serif;
+}
+.container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+.header{
+    font-size: 2em;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 1px;
+    border-width: 0px;
+    font-family: 'Paytone One', sans-serif;
+}
+
+.horizon{
+    content: ' ';
+    background: black;
+
+    height: 1px;
+    width: 200px;
+    margin: 0 auto;
+
+}
+
+.profile{
+    text-align: center;
+    font-family: 'Six Caps', sans-serif;
+    font-size: 1.5em;
+}
+
+.social{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+
+    div{
+        border-width: 1px;
+        border-style: solid;
+
+        width: 150px;        
+        text-align: center;
+        
+        margin: 15px;
+
+        li{
+            list-style: none;
+            text-align: center;
+            margin: 5px;
+
+        }
+    }
+}
