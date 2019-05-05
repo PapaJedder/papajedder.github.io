@@ -1,0 +1,72 @@
+[{
+    "name": "Let's Filipino",
+    "description": "Learn Filipino with Papa Jedder",
+    "links": [
+      {
+        "link": "Youtube",
+        "url": "https://goo.gl/51vv3r "
+      },
+      {
+        "link": "Facebook",
+        "url": "https://fb.me/letsfilipino"
+      }
+
+     
+      ,
+      {
+        "link": "Twitter",
+        "url": "https://twitter.com/letsfilipino"
+      }
+    ]
+  },
+  {
+    "name": "Papa Jedder",
+    "description": "Comedy and Non-sense",
+    "links": [
+        {
+            "link": "Youtube",
+
+            "url": "https://goo.gl/xMXzkL"
+        },
+      {
+        "link": "Facebook",
+        "url": "https://fb.me/papajedder"
+      },
+      {
+        "link": "Twitter",
+        "url": "https://twitter.com/papajedder"
+      }
+    ]
+  }
+  ,
+  {
+    "name": "Baybayin",
+    "description": "Philippine's Tagalog Script",
+    "links": [
+      {
+        "link": "Patatukana",
+        "url": "https://jbrazal.github.io/patatukana/"
+      }
+    ]
+  }
+  ,
+  {
+    "name": "Store",
+    
+    "description": "Support",
+    "links": [
+      {
+        "link": "Redbubble",
+        "url": "https://www.redbubble.com/people/papajedder/portfolio"
+      }
+      ,
+      {
+        "link": "Teespring",
+        "url": "https://teespring.com/en-GB/stores/papa-jedder"
+      }
+    ]
+  }
+  
+  
+  
+  ]
